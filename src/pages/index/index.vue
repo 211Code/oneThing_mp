@@ -22,7 +22,7 @@
       <input type="text" class="form-control" v-model.lazy="motto" placeholder="v-model.lazy" />
     </form>
 
-
+      <van-button type="primary">1111111</van-button>
     <div class="all">
         <div class="left">
         </div>
