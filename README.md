@@ -6,12 +6,13 @@
 
 ``` bash
 # 初始化项目
-vue init mpvue/mpvue-quickstart myproject
-cd myproject
+直接导入项目之后建议全局安装cnpm
 
 # 安装依赖
-yarn
-
+# yarn 建议安装
+npm install 或者cnpm install即可
+之后npm run dev即可启动项目，项目端口配置文件在config/index.js文件中，自己去配置
+-----以下是打包后的流程，开发项目时无需用到------
 # 开发时构建
 npm dev
 
